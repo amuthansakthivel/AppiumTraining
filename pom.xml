@@ -22,6 +22,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>testngnew.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
